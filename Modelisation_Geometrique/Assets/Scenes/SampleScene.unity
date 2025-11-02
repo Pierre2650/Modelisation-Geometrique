@@ -459,9 +459,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nbLignes: 3
   nbColones: 3
-  nbMeridients: 20
-  hauteur: 6
-  rayon: 5
+  nbMeridientsCyl: 10
+  hauteurCyl: 5
+  rayonCyl: 2
+  rayonSph: 2
+  nbParallelesSph: 10
+  nbMeridientsSph: 10
 --- !u!33 &1110637047
 MeshFilter:
   m_ObjectHideFlags: 0
