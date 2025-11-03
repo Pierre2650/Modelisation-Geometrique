@@ -56,11 +56,8 @@ public class PlaneGenerator : MonoBehaviour
 
         for (; i < trianglesIndex; i++)
         {
-            Debug.Log("i triangles = " + i);
             triangles.Add(i);
         }
-
-        Debug.Log("End");
     }
 
     public void resetMesh()
