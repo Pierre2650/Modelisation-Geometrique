@@ -1,4 +1,4 @@
-# Cours de Modélisation Géométrique - GAMAGORA
+# Modélisation Géométrique - GAMAGORA
 ## Modélisation de Maillages
 Projet Unity pour la génération de maillages de différentes figures géométriques.
 
